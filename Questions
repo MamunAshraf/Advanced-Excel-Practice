@@ -1,1 +1,12 @@
 
+Pls find the report these questions by using Dataset 				
+1.Prepare a Pivot table by Territory delivered Amount_TP				
+2.Prepare a Territory Wise Delivered Amount Contribution				
+3.Prepare a Pivot table by Category wise delivered Amount_TP				
+4.Prepare a Pivot table by Brand wise delivered Amount_TP & Create Territory Slicer 				
+5.Prepare a Pivot table by  only Diploma Brand  delivered Amount_TP				
+6.Prepare a Pivot table by Brand wise Order_TP  Vs  delivered Amount_TP & Create Category Slicer				
+7.Prepare a Pivot table by Brand-wise Bounced Value_TP  (Order_TP Subtract delivered Amount_TP) & Create Area Slicer				
+8.Prepare a Brand Wise Clusterd Bar Chart				
+9.Prepare a Area Wise doughnut Chart				
+10.Prepare a Date wise  Delivered Amount_TP Line Chart 				
